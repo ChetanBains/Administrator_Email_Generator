@@ -18,7 +18,7 @@ public class EmailApp {
 
             JLabel l1 = new JLabel("Automatic Administrator Email Generation Panel");
             j1.add(l1);
-            l1.setBounds(100,20,400,40);
+            l1.setBounds(300,20,400,40);
             l1.setVisible(true);
 
 
