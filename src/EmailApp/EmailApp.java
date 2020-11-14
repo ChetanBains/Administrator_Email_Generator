@@ -25,8 +25,8 @@ public class EmailApp {
 
             Email em1 = new Email("Chetanjeev","Bains");
             System.out.println(em1.showInfo());
-//            em1.changePassword();
-//            em1.setAlternateemail();
-//            em1.setMailboxcapacity();
+            em1.changePassword();
+            em1.setAlternateemail();
+            em1.setMailboxcapacity();
         }
 }
